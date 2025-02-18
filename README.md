@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Nostalgia-Virus
 (The Linux Distro)
 
@@ -50,6 +53,20 @@ to use this distro you **must** have the following on any computer of your choos
 ## Contributors & Contributing
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nonbinarybyte"><img src="https://avatars.githubusercontent.com/u/184435682?v=4?s=100" width="100px;" alt="❝ ¡ {Kenny} ! ❞"/><br /><sub><b>❝ ¡ {Kenny} ! ❞</b></sub></a><br /><a href="https://github.com/nonbinarybyte/NVOS/commits?author=nonbinarybyte" title="Code">💻</a> <a href="#maintenance-nonbinarybyte" title="Maintenance">🚧</a> <a href="https://github.com/nonbinarybyte/NVOS/commits?author=nonbinarybyte" title="Tests">⚠️</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
