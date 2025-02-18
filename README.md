@@ -48,3 +48,12 @@ to use this distro you **must** have the following on any computer of your choos
 - a stable internet connection
 - a computer
 ## Contributors & Contributing
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
